@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>siva.bootcore</groupId>
-	<artifactId>Boot17-Core-ApplicationRunner</artifactId>
+	<artifactId>BootM1Core16-Core-CLR-BulkLoadIntoBean</artifactId>
 	<version>1.0</version>
-	<name>Boot17-Core-ApplicationRunner</name>
+	<name>BootM1Core16-Core-CLR-BulkLoadIntoBean</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
@@ -34,6 +34,11 @@
 					<artifactId>junit-vintage-engine</artifactId>
 				</exclusion>
 			</exclusions>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-configuration-processor</artifactId>
+			<optional>true</optional>
 		</dependency>
 	</dependencies>
 

@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>siva.bootcore</groupId>
-	<artifactId>Boot20-Core-AR-Profiles</artifactId>
+	<artifactId>BootM1Core17-Core-ApplicationRunner</artifactId>
 	<version>1.0</version>
-	<name>Boot20-Core-AR-Profiles</name>
+	<name>BootM1Core17-Core-ApplicationRunner</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>

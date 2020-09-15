@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>siva.bootcore</groupId>
-	<artifactId>Boot11-Core-CLR-BasePackages</artifactId>
+	<artifactId>BootM1Core15-Core-CLR-ReadInput-ConfigPro-yml</artifactId>
 	<version>1.0</version>
-	<name>Boot11-Core-CLR-BasePackages</name>
+	<name>BootM1Core15-Core-CLR-ReadInput-ConfigPro-yml</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
@@ -34,6 +34,11 @@
 					<artifactId>junit-vintage-engine</artifactId>
 				</exclusion>
 			</exclusions>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-configuration-processor</artifactId>
+			<optional>true</optional>
 		</dependency>
 	</dependencies>
 

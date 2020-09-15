@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>siva.bootcore</groupId>
-	<artifactId>Boot14-Core-CLR-ReadInput-ConfigPro-properties</artifactId>
+	<artifactId>BootM1Core19-Core-AR-InputFiles-ReadingOrder</artifactId>
 	<version>1.0</version>
-	<name>Boot14-Core-CLR-ReadInput-ConfigPro-properties</name>
+	<name>BootM1Core19-Core-AR-InputFiles-ReadingOrder</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
@@ -34,11 +34,6 @@
 					<artifactId>junit-vintage-engine</artifactId>
 				</exclusion>
 			</exclusions>
-		</dependency>
-		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-configuration-processor</artifactId>
-			<optional>true</optional>
 		</dependency>
 	</dependencies>
 

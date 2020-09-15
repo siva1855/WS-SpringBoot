@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>siva.bootcore</groupId>
-	<artifactId>Boot18-Core-AR-InputArgs</artifactId>
+	<artifactId>BootM1Core20-Core-AR-Profiles</artifactId>
 	<version>1.0</version>
-	<name>Boot18-Core-AR-InputArgs</name>
+	<name>BootM1Core20-Core-AR-Profiles</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
