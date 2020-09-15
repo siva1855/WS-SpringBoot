@@ -1,0 +1,7 @@
+my:
+  app:
+    id: ${random.int(9,99)}
+    name: ${random.value}
+    mobile-number: ${random.long(9999)}
+    hex-number:
+      ${random.uuid}
