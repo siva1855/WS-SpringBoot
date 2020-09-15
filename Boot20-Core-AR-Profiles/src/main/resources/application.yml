@@ -1,0 +1,6 @@
+spring:
+  profiles:
+      active: social
+      
+#appliocation.properties
+#spring.profiles.active=social

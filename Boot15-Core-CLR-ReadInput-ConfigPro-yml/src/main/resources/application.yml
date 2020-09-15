@@ -1,0 +1,40 @@
+my:
+  app:
+    employee-id: 101
+    employee-name: Sivakumar
+    employee-salary: 35000.50
+    #List
+    company-projects:
+             - Dalmia=spring
+              -JSW=Springboot
+              -SchoolManagement=springboot
+    #Set
+    using-tools:
+         -java=STS3
+         -Angular=VisuvalStudio
+         -OracleBD=SQL Developer
+    #[]--array
+    using-softwatres:
+        -jdk1.8
+        -angular6
+        -oracleDB12C
+        -jbossserver
+    #Properties
+    project-details:
+        client: JSW
+        ParentCompany: YASH
+        ProjectName: SteelMakingSystem
+   #Map
+    employee-details:
+         101: sivakumar
+         102: Sruthi
+         103: Miraj
+         104: Rajesh
+         105: Aditya
+         
+       
+    
+    
+                    
+                    
+      
